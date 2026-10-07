@@ -1,5 +1,9 @@
 # Sorting Visualizer
 
+![Race mode: insertion sort vs quick sort on the same array](docs/preview.gif)
+
+*Race mode: insertion sort vs quick sort on the same 50-element array.*
+
 A Python + pygame visualization of six classic sorting algorithms, with
 controls for stepping, speed, array size, algorithm selection, a side-by-side
 race mode, and a synchronized pseudo-code panel.
